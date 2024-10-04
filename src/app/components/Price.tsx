@@ -13,7 +13,7 @@ const Price = () => {
         WhatsApp Business API Pricing
       </h1>
       <p className="text-center text-gray-600 mb-12">
-        Streamlined Pricing: <span className="text-green-600">Meta's Fee</span> + One Simple Plivo Fee.
+        Streamlined Pricing: <span className="text-green-600">Meta&apos;s Fee</span> + One Simple Plivo Fee.
       </p>
 
       {/* Main Content */}
@@ -52,7 +52,7 @@ const Price = () => {
           </div>
           <div className=" text-left text-gray-500 text-sm">
           <p>
-            *Visit <a href="#" className="text-green-600 underline">Meta's website</a> for details.
+            *Visit <a href="#" className="text-green-600 underline">Meta&apos;s website</a> for details.
           </p>
         </div>
         <div className=" text-left text-gray-500 text-sm">
